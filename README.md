@@ -12,10 +12,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUUUI-98&theme=tokyo-night-pink&radius=10&area=true&hide_border=true" width="48%"/>
 </div>
 
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E88AB2&center=true&vCenter=true&width=435&lines=あんたにあっかんべー;" alt="Typing SVG" />
-</p>
-
