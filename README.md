@@ -6,9 +6,3 @@
 </p>
 
 
-### GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUUUI-98&show_icons=true&hide_border=true&border_radius=20&bg_color=000000&title_color=ff80bf&text_color=ffffff&icon_color=ff80bf" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUUUI-98&theme=tokyo-night-pink&radius=10&area=true&hide_border=true" width="48%"/>
-</div>
-
